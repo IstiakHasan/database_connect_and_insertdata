@@ -7,7 +7,7 @@
 <body>
    
    
-   <form action="handaler.php">
+   <form action="handaler.php" align="center">
        
        <input type="text" placeholder="firstname" name="name">
        <input type="text" placeholder="username" name="username">
